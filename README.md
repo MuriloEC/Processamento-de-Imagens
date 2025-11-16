@@ -1,1 +1,1 @@
-# Atividades desnvolvidas durante a matéria de Processamento de Sinais e Imagens
+# Atividades desenvolvidas durante a matéria de Processamento de Sinais e Imagens
